@@ -1,17 +1,19 @@
 #include <iostream>
 using namespace std;
 
-void print(int i, int n){
-    if(i>n) return;
-    cout << "raj" << endl;
-
-    print(i+1, n);
+int solve(int n){
+    int sum = 0;
+    for(int i = 0 ; i <= n ; i++){
+        sum += i;
+    }
+    cout << sum;
 };
 
 int main() {
     int n;
     cout << "enter n:" <<endl;
     cin >> n;
-    print(1, n);
+    solve(n);
+
     return 0;
 }

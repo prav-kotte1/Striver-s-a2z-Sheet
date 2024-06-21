@@ -2,16 +2,18 @@
 using namespace std;
 
 void print(int i, int n){
-    if(i>n) return;
-    cout << "raj" << endl;
+    if(i<1) return;
 
-    print(i+1, n);
+    cout << i << endl;
+
+    print(i-1, n);
 };
 
 int main() {
     int n;
     cout << "enter n:" <<endl;
     cin >> n;
-    print(1, n);
+    print(n, n);
+
     return 0;
 }
