@@ -11,4 +11,6 @@ Palindrome question.
 Day-2:
 Basic Math and recursion.
 
-Day-3:
+Day-3: 01/07/2024
+Hashing
+
