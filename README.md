@@ -15,3 +15,7 @@ Day-3: 01/07/2024
 Hashing
 
 Day-4: 02/07/2024
+
+Day-4: 04/8/2024
+Revision of previous codes and their approaches
+gcd, 
