@@ -18,7 +18,7 @@ Day-4: 02/07/2024
 
 Day-4: 04/8/2024
 Revision of previous codes and their approaches
-gcd, palindrome, frequency, plaindrome, fibonacci, sorting all, arrays 2
+gcd, palindrome, frequency, fibonacci, sorting all, arrays 2
 
 Day-5: 06/08/2024
 arrays 3
