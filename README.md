@@ -21,3 +21,4 @@ Revision of previous codes and their approaches
 gcd, palindrome, frequency, plaindrome, fibonacci, sorting all, arrays 2
 
 Day-5: -6/08/2024
+gcd, palindrome, frequency, fibonacci, sorting all, arrays 2
